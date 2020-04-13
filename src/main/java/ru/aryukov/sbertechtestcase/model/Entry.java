@@ -6,6 +6,7 @@ import lombok.NoArgsConstructor;
 import org.springframework.stereotype.Component;
 import scala.Serializable;
 
+
 @Data
 @AllArgsConstructor
 @NoArgsConstructor
